@@ -2,9 +2,9 @@
 
 ---- voice synthesis ----
 
-    https://oddvoices.org/
+https://oddvoices.org/
     
-    virtual singer
+virtual singer
 
 
 ---- computer music tools ----
